@@ -1,6 +1,6 @@
 # Bash Rhythm Sequencer
 
-チープなリズムシーケンサー
+チープなリズムマシン
 
 ## Dependency
 
